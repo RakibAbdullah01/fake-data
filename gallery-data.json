@@ -1,0 +1,47 @@
+[
+  {
+    "img": "https://i.ibb.co/P17v4P3/1.jpg",
+    "title": "Machu Picchu, Peru",
+    "des": "Located high in the Andes mountains of Peru."
+  },
+  {
+    "img": "https://i.ibb.co/SsFTxfz/2.jpg",
+    "title": "The Grand Canyon, Arizona",
+    "des": "This incredible natural wonder is in the U.S. state of Arizona. "
+  },
+  {
+    "img": "https://i.ibb.co/PhGjSpV/3.jpg",
+    "title": "Rome, Italy",
+    "des": "The Eternal City is more like a giant, living museum. "
+  },
+  {
+    "img": "https://i.ibb.co/XjdSPsk/4.jpg",
+    "title": "Maui, Hawaii",
+    "des": "This Hawaiian island offers a wide range of experiences for visitors."
+  },
+  {
+    "img": "https://i.ibb.co/V2Chvhx/5.jpg",
+    "title": "Masai Mara, Kenya",
+    "des": "Kenya's Masai Mara is an incredible bio-diverse area and a popular safari destination."
+  },
+  {
+    "img": "https://i.ibb.co/tJ1N6kH/6.jpg",
+    "title": " Montreal, Canada",
+    "des": "As you listen to the sound of French being spoken around you and explore Old Montreal. "
+  },
+  {
+    "img": "https://i.ibb.co/f4Z5fVy/7.jpg",
+    "title": "New Zealand",
+    "des": "With its striking natural beauty, friendly citizens, and recent popularity due to its use as the filming location for the Lord of the Ring. "
+  },
+  {
+    "img": "https://i.ibb.co/vZ9gmSj/8.jpg",
+    "title": "Istanbul, Turkey",
+    "des": "Turkey's capital city is another destination that offers a great mix of culture, food, and history.  "
+  },
+  {
+    "img": "https://i.ibb.co/mD4QxLH/9.jpg",
+    "title": "Angkor Wat, Cambodia",
+    "des": "Located just outside the Cambodian city of Siem Reap, Angkor Wat is the largest religious site in the world."
+  }
+]
